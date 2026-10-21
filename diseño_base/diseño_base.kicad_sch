@@ -1,0 +1,598 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "65c1503a-7191-45e1-8630-4052ff91d18f")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 128.27 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2db6d3ff-1e68-4f50-ad86-fb976d9929a7")
+	)
+	(wire
+		(pts
+			(xy 133.35 116.84) (xy 121.92 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "034d2ef2-3be3-4a70-a354-2bb6a66bfb3e")
+	)
+	(wire
+		(pts
+			(xy 121.92 114.3) (xy 132.08 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1076b62f-b4bf-42a1-845e-9172cce2a242")
+	)
+	(wire
+		(pts
+			(xy 128.27 59.69) (xy 128.27 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29e5280d-edf0-4a35-9363-3ab556024d24")
+	)
+	(wire
+		(pts
+			(xy 134.62 119.38) (xy 121.92 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a34dfed-986d-4a63-a9cf-ae1d497a1ff6")
+	)
+	(wire
+		(pts
+			(xy 128.27 54.61) (xy 158.75 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b5b5e7c-5f68-451b-bdae-e8139b5d353b")
+	)
+	(wire
+		(pts
+			(xy 121.92 129.54) (xy 139.7 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44c77de6-bcfc-4051-b872-e6babbfa3229")
+	)
+	(wire
+		(pts
+			(xy 104.14 111.76) (xy 104.14 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45ed1281-21ff-4f6c-9552-b61c32813345")
+	)
+	(wire
+		(pts
+			(xy 137.16 124.46) (xy 121.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ac6463c-5c39-401c-b990-25cc83298459")
+	)
+	(wire
+		(pts
+			(xy 134.62 64.77) (xy 134.62 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "524c3355-bc3b-4c9b-b8f6-5339aa8a24ee")
+	)
+	(wire
+		(pts
+			(xy 138.43 72.39) (xy 138.43 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57680869-f489-4fd8-b785-402499fd5e6d")
+	)
+	(wire
+		(pts
+			(xy 135.89 121.92) (xy 121.92 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58867c41-8ec2-4573-af29-5c78d2575ba4")
+	)
+	(wire
+		(pts
+			(xy 121.92 59.69) (xy 128.27 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a9000cc-f275-4a6d-a1d7-07103fa7789b")
+	)
+	(wire
+		(pts
+			(xy 139.7 74.93) (xy 158.75 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "629ff0a6-7802-491f-95b3-5af157ca73f2")
+	)
+	(wire
+		(pts
+			(xy 135.89 67.31) (xy 135.89 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66489563-7c80-4165-9a8e-7ed478443f3b")
+	)
+	(wire
+		(pts
+			(xy 121.92 127) (xy 138.43 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "720315fc-d6ee-4852-9e06-b76c28b4acf5")
+	)
+	(wire
+		(pts
+			(xy 158.75 72.39) (xy 138.43 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8051534c-0361-4391-9e89-a9b9ea49577b")
+	)
+	(wire
+		(pts
+			(xy 128.27 104.14) (xy 128.27 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a11efdd-ec7b-43b7-92ad-b84e8e8241a2")
+	)
+	(wire
+		(pts
+			(xy 137.16 69.85) (xy 137.16 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d6107cc-aa5d-4b41-bd0d-e2627a4bbded")
+	)
+	(wire
+		(pts
+			(xy 158.75 69.85) (xy 137.16 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13bf3bf-32e6-4138-b197-92a039e5dfb5")
+	)
+	(wire
+		(pts
+			(xy 158.75 64.77) (xy 134.62 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a66f62a4-3dee-4be6-a39c-25bd8a67bff4")
+	)
+	(wire
+		(pts
+			(xy 139.7 129.54) (xy 139.7 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7cf512d-e64c-4e8a-a20d-ae7f38831d4c")
+	)
+	(wire
+		(pts
+			(xy 158.75 62.23) (xy 133.35 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af0a07b9-1342-4980-82a5-2f1cc39ebbfd")
+	)
+	(wire
+		(pts
+			(xy 132.08 59.69) (xy 158.75 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6afc43b-2c36-4392-bb01-3dc1edc25e18")
+	)
+	(wire
+		(pts
+			(xy 132.08 114.3) (xy 132.08 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b785a4d7-b1b8-4499-bfa7-1bae5653f266")
+	)
+	(wire
+		(pts
+			(xy 133.35 62.23) (xy 133.35 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd59e0f7-4139-4f87-ad6e-416539c1f887")
+	)
+	(wire
+		(pts
+			(xy 104.14 104.14) (xy 128.27 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db16dada-a301-4621-808a-4ed421ea45a4")
+	)
+	(wire
+		(pts
+			(xy 158.75 67.31) (xy 135.89 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eedb5aca-7400-46e6-8cef-7feb47761b31")
+	)
+	(sheet
+		(at 63.5 54.61)
+		(size 58.42 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "691f227b-dbcb-412b-8b49-a731d6441ce3")
+		(property "Sheetname" "Alimentación"
+			(at 63.5 53.8984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Alimentacion.kicad_sch"
+			(at 63.5 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3.3V" input
+			(at 121.92 59.69 0)
+			(uuid "707fdfe0-f99e-4883-af67-8ef9f994bbec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "diseño_base"
+				(path "/65c1503a-7191-45e1-8630-4052ff91d18f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.75 53.34)
+		(size 59.69 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7745c0d9-8a69-4ae3-954f-c6273fcf03f8")
+		(property "Sheetname" "Microcontrolador"
+			(at 158.75 52.6284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontrolador.kicad_sch"
+			(at 158.75 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 158.75 59.69 180)
+			(uuid "224a36cd-c956-444c-9f04-d0384489040f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDL" bidirectional
+			(at 158.75 62.23 180)
+			(uuid "32c1f276-b1d5-4008-a872-0ec3652fdc46")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3.3V" input
+			(at 158.75 54.61 180)
+			(uuid "48cbfbe9-e790-4203-ad25-ee933a947c75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_MISO" input
+			(at 158.75 69.85 180)
+			(uuid "df3d0bb1-c7de-4f09-a24e-fc79d04dcaf1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_CS" output
+			(at 158.75 64.77 180)
+			(uuid "ef15867e-0961-47c3-995d-bcd247d21c8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_MOSI" output
+			(at 158.75 72.39 180)
+			(uuid "a8116749-cfc9-4143-8863-2c5fa9964744")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_SCK" output
+			(at 158.75 67.31 180)
+			(uuid "c1d668c0-7726-4667-aed2-419b67dce41e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ONEWIRE_DQ" bidirectional
+			(at 158.75 74.93 180)
+			(uuid "2fcc1abe-31f7-4843-a864-38e3746dad53")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "diseño_base"
+				(path "/65c1503a-7191-45e1-8630-4052ff91d18f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 111.76)
+		(size 57.15 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e52ed6dd-3343-41c9-af32-f6d498cf4962")
+		(property "Sheetname" "Sensores"
+			(at 64.77 111.0484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensores.kicad_sch"
+			(at 64.77 154.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 121.92 114.3 0)
+			(uuid "cb7dd340-0846-42e5-b8b2-a8e496e992e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 121.92 116.84 0)
+			(uuid "b6c61eed-d7bc-4d43-913f-749725a305bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "3.3V" input
+			(at 104.14 111.76 90)
+			(uuid "0d088d43-6697-4447-b5dc-f6fdd4ecf02f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_CS" input
+			(at 121.92 119.38 0)
+			(uuid "8a79fab2-eb66-4081-9c9e-31886bae21e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MISO" output
+			(at 121.92 124.46 0)
+			(uuid "8714eb48-a89a-41a2-88f4-774da256302d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MOSI" input
+			(at 121.92 127 0)
+			(uuid "3ac33dfc-cbb9-49dd-a1ab-ff9845cc55b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_SCK" input
+			(at 121.92 121.92 0)
+			(uuid "f39ae879-d7c2-468b-93f8-0294735091d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ONEWIRE_DQ" bidirectional
+			(at 121.92 129.54 0)
+			(uuid "217c9288-65b6-4b75-8d1c-a72d6da695e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "diseño_base"
+				(path "/65c1503a-7191-45e1-8630-4052ff91d18f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
